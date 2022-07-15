@@ -1,0 +1,5 @@
+a=set()
+a.add(12)
+a.add("hello")
+print(a)
+print(type(a))
